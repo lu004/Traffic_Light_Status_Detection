@@ -1,4 +1,4 @@
-# Traffic Light Status Recognition
+# Traffic Light Status Detection
 Recognize and track "traffic light status" for sequential frames of images.
 
 ## Method
